@@ -1,12 +1,10 @@
-### Hi there 👋
-
-<!--
-**pedrojoaquim0/pedrojoaquim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Pedro Joaquim ! 
+## Bem vindo ao meu perfil GitHub 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Atualmente trabalho no Gerenciamento de Obras e Serviços
+- 🌱 Atualmente estou aprendendo Html e CSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
